@@ -1,0 +1,15 @@
+
+form{
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #fff;
+    width: 600px;
+    margin: 0 450px;
+    border: 1px solid black;
+}
+.Billing{
+    padding-top: 40px;
+    font-size: 45px;
+    margin-left: 600px;
+}
